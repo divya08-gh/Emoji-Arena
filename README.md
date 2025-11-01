@@ -1,1 +1,1 @@
-"# EmojiBattle-Arena" 
+"# Emoji-Arena" 
